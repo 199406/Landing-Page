@@ -155,5 +155,60 @@ main h2 {
 }
 /*quote section ends */
 
+/*signup section starts */
+
+.signup-section {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-container {
+    display: flex;
+    width: 800px;
+    background-color:#3882F6;
+    border-radius: 8px;
+    padding: 30px 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.signup-text h3{
+    color: #E5E7EB;
+    margin-bottom: 0;
+}
+
+.signup-text p {
+    margin-top: 5px;
+    padding: 0;
+    color: #E5E7EB;
+}
+
+.signup-container button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 10px 30px;
+    color: white;
+}
+
+
+/*signup section ends */
+
+/*footer section starts */
+footer {
+    background-color: #1F2937;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color: white;
+}
+/*footer section ends */
+
 
 
